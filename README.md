@@ -14,5 +14,5 @@ Blogify's Database is a MySQL database. Soon I'll add the ER Diagram for the str
 between the data and tables.
 
 ##JavaScript
-Blogify's Front-end content is handled by JavaScript, such as handling and passing forms, creating slick animations,
+Blogify's Front-end content is handled by JavaScript, such as handling forms, creating slick animations,
 visualizing data, and generating a pleasant and easy-to-use UI.
